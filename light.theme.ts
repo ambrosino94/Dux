@@ -24,7 +24,7 @@ const theme = createTheme({
           font-style: normal;
           font-display: swap;
           font-weight: 100 900;
-          src: url(/fonts/Inter-VariableFont_slnt,wght) format('truetype');
+          src: url(/fonts/Inter-VariableFont_slnt,wght.ttf) format('truetype');
         }
       `,
     },
